@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BootSql1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shyam
+Implementation-Vendor-Id: com.shyam0507.github
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/BootSql1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
